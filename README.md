@@ -4,6 +4,7 @@ Contributors
 
 Mathieu Verpillat
 Khelil Bezzouh
+Xavier Queyreyre
 
 
 ## Decription 
